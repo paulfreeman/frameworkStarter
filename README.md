@@ -1,8 +1,5 @@
 How to use this starter project to build a new framework component 
 
-Paul Freeman 
-============
-
 1) Fork the framework starter project 
 
 2) Setup Carthage (if not setup). 
@@ -17,4 +14,3 @@ Paul Freeman
 
 7) Run the tests in applicationTests scheme
 
- d
